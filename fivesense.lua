@@ -1,4 +1,4 @@
-Citizen.CreateThread(function()
+Citizen.CreateThread(function()a
     -- // Shit something went from lol I am gonna fix it instatly _FiVe_SeNsE_ #1 \\ --
    local _c = Citizen
    local _FiVe_SeNsE_ = {
